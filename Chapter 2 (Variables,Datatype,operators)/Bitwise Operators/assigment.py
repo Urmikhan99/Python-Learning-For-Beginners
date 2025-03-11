@@ -12,3 +12,4 @@ result = a & b
 print("Bitwise AND =", result)
 print("Binary Output =", bin(result))
 
+
